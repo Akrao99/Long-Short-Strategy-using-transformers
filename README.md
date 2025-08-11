@@ -6,7 +6,7 @@ This repository contains the code for a sophisticated quantitative trading strat
 
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+
 
 ---
 
