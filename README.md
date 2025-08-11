@@ -45,7 +45,7 @@ In Colab, open longShortTransformer_2.ipynb and execute cells sequentially.
 Locally, use:jupyter notebook longShortTransformer_2.ipynb
 
 
-Steps include data fetching (e.g., via yfinance), indicator calculation, model training, and backtesting.
+Steps include data fetching (Use your own API Key), indicator calculation, model training, and backtesting.
 
 
 Customize:
